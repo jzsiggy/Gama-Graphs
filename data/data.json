@@ -1,0 +1,197 @@
+{
+    "Aparecida do Norte": {
+        "entregues": 280,
+        "latitude": -22.851552,
+        "longitude": -45.2340924
+    },
+    "Barueri": {
+        "entregues": 40,
+        "latitude": -23.5112184,
+        "longitude": -46.8764612
+    },
+    "Botucatu": {
+        "entregues": 400,
+        "latitude": -22.8879628,
+        "longitude": -48.4410712
+    },
+    "Bragan\u00e7a Paulista": {
+        "entregues": 915,
+        "latitude": -22.9520235,
+        "longitude": -46.5418586
+    },
+    "Cachoeira Paulista": {
+        "entregues": 40,
+        "latitude": -22.666498,
+        "longitude": -45.015384
+    },
+    "Campinas": {
+        "entregues": 960,
+        "latitude": -22.90556,
+        "longitude": -47.06083
+    },
+    "Campos do Jord\u00e3o": {
+        "entregues": 120,
+        "latitude": -22.7395263,
+        "longitude": -45.5912829
+    },
+    "Ca\u00e7apava": {
+        "entregues": 300,
+        "latitude": -23.099204,
+        "longitude": -45.707645
+    },
+    "Cotia": {
+        "entregues": 480,
+        "latitude": -23.603889,
+        "longitude": -46.918889
+    },
+    "Cunha": {
+        "entregues": 50,
+        "latitude": -23.07753,
+        "longitude": -44.9567436
+    },
+    "Diversas": {
+        "entregues": 2000,
+        "latitude": -22.9194273,
+        "longitude": -43.243627
+    },
+    "Diversas RS": {
+        "entregues": 45043,
+        "latitude": -30.0,
+        "longitude": -53.5
+    },
+    "Diversas SP": {
+        "entregues": 7025,
+        "latitude": -22.9194273,
+        "longitude": -43.243627
+    },
+    "Emb\u00fa das Artes": {
+        "entregues": 440,
+        "latitude": -23.6495294,
+        "longitude": -46.8528497
+    },
+    "Extrema": {
+        "entregues": 315,
+        "latitude": -22.8549109,
+        "longitude": -46.3190079
+    },
+    "Guaratingueta": {
+        "entregues": 240,
+        "latitude": -22.8057839,
+        "longitude": -45.1908926
+    },
+    "Guarulhos": {
+        "entregues": 300,
+        "latitude": -23.4430602,
+        "longitude": -46.524459
+    },
+    "Ilhabela": {
+        "entregues": 100,
+        "latitude": -23.816628,
+        "longitude": -45.368685
+    },
+    "Itajub\u00e1/Lambari - MG": {
+        "entregues": 300,
+        "latitude": -21.97556,
+        "longitude": -45.35028
+    },
+    "Lagoinha": {
+        "entregues": 50,
+        "latitude": -23.0898337,
+        "longitude": -45.1903825
+    },
+    "Minas": {
+        "entregues": 300,
+        "latitude": -18.0,
+        "longitude": -44.0
+    },
+    "Natividade da Serra": {
+        "entregues": 80,
+        "latitude": -23.3783786,
+        "longitude": -45.4438173
+    },
+    "Parais\u00f3polis": {
+        "entregues": 200,
+        "latitude": -22.5541683,
+        "longitude": -45.7800024
+    },
+    "Pindamonhangaba": {
+        "entregues": 160,
+        "latitude": -22.9340165,
+        "longitude": -45.462938
+    },
+    "Piquete": {
+        "entregues": 50,
+        "latitude": -22.6138451,
+        "longitude": -45.1777096
+    },
+    "Potim": {
+        "entregues": 50,
+        "latitude": -22.8377227,
+        "longitude": -45.2565239
+    },
+    "Rio Grande do Sul": {
+        "entregues": 200,
+        "latitude": -29.8425284,
+        "longitude": -53.7680577
+    },
+    "Rio de Janeiro": {
+        "entregues": 1000,
+        "latitude": -22.9110137,
+        "longitude": -43.2093727
+    },
+    "S. J. do Rio Preto": {
+        "entregues": 30,
+        "latitude": -20.81972,
+        "longitude": -49.37944
+    },
+    "Santo Andr\u00e9": {
+        "entregues": 480,
+        "latitude": -23.6573395,
+        "longitude": -46.5322504
+    },
+    "Santo Antonio do Pinhal": {
+        "entregues": 50,
+        "latitude": -22.8250504,
+        "longitude": -45.6674063
+    },
+    "Santos": {
+        "entregues": 490,
+        "latitude": -23.960833,
+        "longitude": -46.333889
+    },
+    "S\u00e3o Jos\u00e9 dos Campos": {
+        "entregues": 600,
+        "latitude": -23.1805011,
+        "longitude": -45.8872969
+    },
+    "S\u00e3o Luis do Paraitinga": {
+        "entregues": 50,
+        "latitude": -23.2220188,
+        "longitude": -45.3108724
+    },
+    "S\u00e3o Paulo": {
+        "entregues": 12190,
+        "latitude": -23.5506507,
+        "longitude": -46.6333824
+    },
+    "Tabo\u00e3o da Serra": {
+        "entregues": 480,
+        "latitude": -23.6121912,
+        "longitude": -46.7790539
+    },
+    "Taubat\u00e9": {
+        "entregues": 2990,
+        "latitude": -23.031448,
+        "longitude": -45.5612792
+    },
+    "Trememb\u00e9": {
+        "entregues": 100,
+        "latitude": -22.95714,
+        "longitude": -45.547526
+    },
+    "Tubar\u00e3o - SC": {
+        "entregues": 520,
+        "latitude": -28.471488,
+        "longitude": -49.014132
+    }
+}
