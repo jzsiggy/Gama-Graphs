@@ -1,7 +1,8 @@
 import json
 import plotly.graph_objects as go
+from config import mpb
 
-mapbox_access_token = 'You_Access_Token'
+mapbox_access_token = mpb
 
 with open('data/data.json', 'r') as fp:
   data = json.load(fp)

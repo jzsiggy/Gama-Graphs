@@ -1,7 +1,8 @@
 import pandas as pd
 import requests
 import json
-BASEURL = 'https://api.opencagedata.com/geocode/v1/json?key=23f5ddc46c3c459499de1d2056267c51&q='
+from config import geokey
+BASEURL = 'https://api.opencagedata.com/geocode/v1/json?key={}&q='.format(geokey)
 
 def get_lat_lon(reg):
   raw = requests.get(BASEURL+reg)
