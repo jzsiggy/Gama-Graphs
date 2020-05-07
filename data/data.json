@@ -39,6 +39,11 @@
         "latitude": -23.099204,
         "longitude": -45.707645
     },
+    "Cear\u00e1": {
+        "entregues": 2000,
+        "latitude": -5.3264703,
+        "longitude": -39.7156073
+    },
     "Cotia": {
         "entregues": 480,
         "latitude": -23.603889,
@@ -49,20 +54,10 @@
         "latitude": -23.07753,
         "longitude": -44.9567436
     },
-    "Diversas": {
-        "entregues": 2000,
-        "latitude": -22.9194273,
-        "longitude": -43.243627
-    },
     "Diversas RS": {
         "entregues": 45043,
         "latitude": -30.0,
         "longitude": -53.5
-    },
-    "Diversas SP": {
-        "entregues": 7025,
-        "latitude": -22.9194273,
-        "longitude": -43.243627
     },
     "Emb\u00fa das Artes": {
         "entregues": 440,
@@ -136,8 +131,8 @@
     },
     "Rio de Janeiro": {
         "entregues": 1000,
-        "latitude": -22.9110137,
-        "longitude": -43.2093727
+        "latitude": -22.9068,
+        "longitude": -43.1729
     },
     "S. J. do Rio Preto": {
         "entregues": 30,
@@ -170,7 +165,7 @@
         "longitude": -45.3108724
     },
     "S\u00e3o Paulo": {
-        "entregues": 12190,
+        "entregues": 19215,
         "latitude": -23.5506507,
         "longitude": -46.6333824
     },
